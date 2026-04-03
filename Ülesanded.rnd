@@ -1,0 +1,35 @@
+1. PLANEERIMINE JA ANALÜÜS                          Kokkuvõttev
+1.1 Nõuete analüüs                                   2h-Projektijuht
+1.2 Turvariskide hindamine                           3h-Turvaspetsialist
+1.3 Projektiplaani koostamine                        2h-Projektijuht
+1.3.1 Ajakava koostamine                             1h-Projektijuht
+1.3.2 Ressursside planeerimine                       1h-Projektijuht
+1.3.2.1 Eelarve kinnitamine                          0.5h-Projektijuht
+
+2. INFRASTRUKTUURI TURVAMINE                        Kokkuvõttev
+2.1 SSL/TLS sertifikaadi paigaldus                   2h-DevOps insener
+2.2 HTTPS konfigureerimine                           1h-DevOps insener
+2.3 Tulemüüri seadistamine                           3h-Turvaspetsialist
+2.4 DDoS kaitse seadistamine                         2h-DevOps insener
+
+3. RAKENDUSE TURVAMINE                              Kokkuvõttev
+3.1 SQL injection kaitse                             4h-Backend arendaja
+3.2 XSS kaitse teostamine                            3h-Frontend arendaja
+3.3 CSRF kaitse implementeerimine                    3h-Backend arendaja
+3.4 Sisendandmete valideerimine                      2h-Backend arendaja
+
+4. AUTENTIMINE JA AUTORISEERUMINE                  [kokkuvõttev]
+4.1 Kaheastmelise autentimise lisamine               4h-Backend arendaja
+4.2 Paroolihalduse tugevdamine                       2h-Backend arendaja
+4.3 Sessioonide halduse turvamine                    2h-Backend arendaja
+
+5. ANDMETE KAITSE                                   [kokkuvõttev]
+5.1 Andmebaasi krüpteerimine                         3h-DevOps insener
+5.2 GDPR nõuetele vastavuse kontroll                 2h-Turvaspetsialist
+5.3 Varundussüsteemi seadistamine                    2h-DevOps insener
+
+6. TESTIMINE JA AUDIT                               [kokkuvõttev]
+6.1 Turvatestide läbiviimine                         4h-Turvaspetsialist
+6.2 Penetratsioonitestimine                          5h-Turvaspetsialist
+6.3 Vigade parandamine                               3h-Backend arendaja
+6.4 Lõplik turvaaruanne                              2h-Projektijuht
